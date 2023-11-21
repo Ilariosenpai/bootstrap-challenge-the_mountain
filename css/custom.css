@@ -1,0 +1,27 @@
+#home{
+
+    background-image: url("/bootstrap-challenge-the_mountain/images/bg_header.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.navbar-brand div{
+
+    width: 150px;
+}
+
+.navbar-brand p{
+
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+
+#about{
+
+    background-image: url("/bootstrap-challenge-the_mountain/images/bg_nuage.jpg");
+  
+    background-size: cover;
+}
+
